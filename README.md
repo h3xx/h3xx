@@ -11,7 +11,7 @@
 I have given up GitHub. ([See Software Freedom Conservancy's *Give Up GitHub* site for details](https://giveupgithub.org).)
 
 You can now find me at:
-- https://codeberg.org/h3xx
+- **https://codeberg.org/h3xx (main)**
 - https://gitlab.com/h3xx
 - https://notabug.org/h3xx
 
